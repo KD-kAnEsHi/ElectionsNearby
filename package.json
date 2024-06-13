@@ -1,0 +1,19 @@
+{
+  "name": "electionsnearby",
+  "version": "1.0.0",
+  "description": "A website where users can go to find out what government positions are up for election in their communities, and get more information about the political environment In their area",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
